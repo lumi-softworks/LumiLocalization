@@ -1,6 +1,8 @@
 # LumiLocalization
 
-A shared localization lookup package for Coffic sibling apps and Swift Package Manager plugin bundles.
+📖 English | [中文版](README_zh.md)
+
+A shared localization lookup package for Lumi family apps and Swift Package Manager plugin bundles.
 
 ## Product
 
