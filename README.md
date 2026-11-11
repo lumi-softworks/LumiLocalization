@@ -11,7 +11,7 @@ A shared localization lookup package for Coffic sibling apps and Swift Package M
 Add the package dependency:
 
 ```swift
-.package(url: "https://github.com/CofficLab/LumiLocalization.git", from: "1.0.0")
+.package(url: "https://github.com/lumi-softworks/LumiLocalization.git", from: "1.0.0")
 ```
 
 Add the product to a target and import it:
